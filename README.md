@@ -69,84 +69,8 @@
     }
   </script>
 </body>
-</html>/* Reset e estilos base */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+</html
 
-body {
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #f8f3fc;
-  color: #2c003e;
-  line-height: 1.5;
-}
-
-/* Cabeçalho */
-header {
-  background-color: #5e0b86;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
-
-header h1 {
-  font-size: 1.6em;
-}
-
-nav ul {
-  margin-top: 10px;
-  list-style: none;
-  padding: 0;
-}
-
-nav ul li {
-  margin: 10px 0;
-}
-
-nav ul li a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-/* Banner */
-.banner {
-  background: linear-gradient(to right, #7a1ea1, #a64ac9);
-  color: white;
-  text-align: center;
-  padding: 60px 20px;
-}
-
-.banner h2 {
-  font-size: 1.8em;
-  margin-bottom: 10px;
-}
-
-.banner .btn {
-  background-color: #ffffff;
-  color: #7a1ea1;
-  padding: 10px 20px;
-  border-radius: 25px;
-  text-decoration: none;
-  font-weight: bold;
-  display: inline-block;
-  margin-top: 20px;
-}
-
-.banner .btn:hover {
-  background-color: #f0d6ff;
-}
-
-/* Produtos */
-.produtos {
-  padding: 40px 20px;
-  text-align: center;
-}
-
-.produtos h2 {
-  font-size: 1.5em;
   margin-bottom: 20px;
 }
 
